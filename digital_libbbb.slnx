@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="digital_libbbb/digital_libbbb.vcxproj" />
+  <Project Path="digital_libbbb/digital_libbbb.vcxproj" Id="93ac5b77-fcd2-4d9a-871c-89098327c878" />
 </Solution>
