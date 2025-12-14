@@ -1,4 +1,4 @@
-```
+
 #pragma once
 #ifndef STACK_H
 #define STACK_H
@@ -14,5 +14,3 @@ void displayHistory(TransactionStack* s);
 void clearStack(TransactionStack* s);
 
 #endif // STACK_H
-
-```

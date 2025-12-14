@@ -8,6 +8,7 @@
 #include "queue.h"
 #include "user.h"
 #include "ui.h"
+#include "stack.h"
 
 
 int main() {
