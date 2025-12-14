@@ -38,6 +38,7 @@ void displayLIBRARIANMenu() {
     printf("8. Number of books in the library (Linked List Count)\n");
     printf("9. Show only the last operation (Stack Peek)\n");
     printf("10. Clear the entire operations history (Stack Clear)\n");
+    printf("11. Shift to user\n");
     printf("0. Exit\n");
     printf("====================================\n");
     printf("Your choice: ");

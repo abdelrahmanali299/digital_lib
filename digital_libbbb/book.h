@@ -5,7 +5,7 @@
 #include "lib_types.h"
 
 void initLibrary(BookLinkedList* l);
-void addBook(BookLinkedList* list, Book newBook);
+void addBook(BookLinkedList* list, Book newBook );
 Book* searchBookByID(BookLinkedList* list, int id);
 void searchBookByTitle(BookLinkedList* list, char title[]);
 int deleteBook(BookLinkedList* list, int id);
